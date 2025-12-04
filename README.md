@@ -1,0 +1,2 @@
+# Predicting-Heart-Disease-Using-Machine-Learning-Comparative-Study-on-the-UCI-Cleveland-Dataset
+A machine-learning project using the UCI Cleveland Heart Disease dataset to predict heart disease through a full data-science pipeline. It applies EDA, scaling, logistic regression, SVM, random forest, and K-means. Random forest performs best (87% accuracy). Useful for healthcare analytics and clinical prediction.
